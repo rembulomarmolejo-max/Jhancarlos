@@ -132,7 +132,7 @@
 
     const numero = WHATSAPP_DESTINO;
 
-    let mensaje = `Hola ${barbero}, soy ${nombreCliente} y quiero reservar una cita en Black Gold Barber Co.`;
+    let mensaje = `Hola ${barbero}, soy ${nombreCliente} y quiero reservar una cita en Barberia Valencias.`;
     mensaje += `\nServicio: ${servicio}`;
     mensaje += `\nFecha: ${fecha}`;
     mensaje += `\nHora: ${hora}`;
